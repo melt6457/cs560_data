@@ -1,4 +1,4 @@
-election,year,winner,party,electoral_college_pts,electoral_college_total,percent_electoral_college,%,percent_popular_vote,percent_popular_vote_margin,total_votes,total_margin,runner_up_votes,runner_up,party,turnout,re-election_try
+election,year,winner,winner_party,electoral_college_pts,electoral_college_total,percent_electoral_college,%,percent_popular_vote,percent_popular_vote_margin,total_votes,total_margin,runner_up_votes,runner_up,runner_up_party,turnout,re-election_try
 1,1788,George Washington,Ind.,69,69,1.0000,100.00%,1.0000,1.0000,43782,"43,782",0,No candidate,None[Note 1],0.1160,N
 2,1792,George Washington,Ind.,132,132,1.0000,100.00%,1.0000,1.0000,28579,"28,579",0,No candidate,None[Note 1],0.0630,Y
 3,1796,John Adams,Fed.,71,138,0.5145,51.45%,0.5345,0.0690,35726,"4,611","31,115",Thomas Jefferson,D.-R.[Note 2],0.2010,N
